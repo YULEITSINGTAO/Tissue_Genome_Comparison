@@ -1,6 +1,11 @@
-# Tissue_Genome_Comparison
+# Tissue Genome Comparison
+---
+author:
+  - John Doe, Institution One
+  - Jane Doe, Institution Two
+---
 ## Introduction
-
+This repository 
 ## Method
 
 ## Example
