@@ -5,7 +5,7 @@ Author:
   - Weiming Chen, labghost1@163.com, Guizhou University
 ---
 
-- [Tissue Genome Comparison](#tissue-genome-comparison)
+
   * [Introduction](#introduction)
   * [Method](#method)
     + [Workflow](#workflow)
