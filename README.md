@@ -9,11 +9,11 @@ Genetic variation between tumor cells and normal cells have been extensively inv
 
 ## Method
 ### Workflow
-### Step 1 
-### Step 2
-### Step 3
-### Step 4
-### Step 6
+### Step 1 Sequencing QC and trim
+### Step 2 Alignment
+### Step 3 GATK recalibate and SNP&INDEL filter
+### Step 4 Tissue comparison
+### Step 6 Visualization
 
 ## Example
 
