@@ -32,7 +32,7 @@ Genetic variation between tumor cells and normal cells has been extensively inve
 fastp -i in.R1.fq.gz -I in.R2.fq.gz -o out.R1.fq.gz -O out.R2.fq.gz
 ```
 ### Step 2 MultiQC
-
+[multiqc](https://multiqc.info/docs/) can generate the merged reports from different 
 ### Step 3 Alignment
 ### Step 4 GATK recalibrate and SNP&INDEL filter
 ### Step 5 Tissue comparison
