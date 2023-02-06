@@ -23,8 +23,19 @@ Author:
 ## Introduction
 Genetic variation between tumor cells and normal cells has been extensively investigated. However, genome differences between tissues within individuals are far less understood. It is commonly assumed that all normal tissue from the same zygote sharing the same content but gets difference from the epigenetics effect. In most of the inheritance and cancer research, use blood tissue replaces the germline cell. In this repository, we developed the snakemake pipeline to compare the genome between blood tissue and testis based on the next generation sequencing result. 
 
+```{figure} ./figures/workflow.jpg
+---
+height: 150px
+name: Workflow
+---
+Workflow!
+```
+
+
 ## Method
 ### Workflow and bash script
+In order to illustrate the workflows more clear, we show the bash script first followed with the instruction of snake workflow.  
+
 
 ```
 ## Add a figure here
